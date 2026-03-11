@@ -35,6 +35,7 @@ Skills:
 
 ### Website Code Prototype
 ![website code prototype](webpage.zip)
+
 Description:
 A front-end practice project where I recreated a website concept using HTML to better understand layout structure and coding principles.
 
