@@ -55,3 +55,4 @@ Skills:
 - HTML
 - GitHub
 - Responsive Layout Design
+- front-End Development basics
