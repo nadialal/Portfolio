@@ -7,7 +7,7 @@ I am a web designer and creative developer passionate about building visually en
 ## Projects
 
 ### Xpressed Vibrance Website
-Website: https://www.xpressedvibrance.com
+Website: https://www.xpressedvibrance.com 
 
 Description:
 I designed and built the full website for my creative brand using Wix. The project focuses on strong visual branding, product layout, and user-friendly navigation.
