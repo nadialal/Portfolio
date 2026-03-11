@@ -1,4 +1,4 @@
-# Nadia Laleau – Web Design Portfolio
+# Nadia Laleau – Web Design & Web Development Portfolio
 
 I am a web designer and creative developer passionate about building visually engaging and user-friendly digital experiences. I recently completed my bachelor’s degree and enjoy combining design and functionality in digital projects.
 
