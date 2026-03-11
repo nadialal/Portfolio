@@ -21,7 +21,8 @@ Skills:
 ---
 
 ### MindBalance Mobile App
-Repository: (paste your GitHub project link here)
+Repository: https://github.com/nadialal/MindBalance/tree/main
+
 
 Description:
 MindBalance is a concept mobile application focused on emotional wellness and mental balance. This project demonstrates my ability to structure an application and manage development using GitHub.
