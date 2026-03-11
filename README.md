@@ -7,6 +7,7 @@ I am a web designer and creative developer passionate about building visually en
 ## Projects
 
 ### Xpressed Vibrance Website
+![Xpressed Vibrance Website](xpressedvibrancewebsitescreenshots.zip)
 Website: https://www.xpressedvibrance.com 
 
 Description:
@@ -35,6 +36,7 @@ Skills:
 ---
 
 ### Website Code Prototype
+![website code prototype](webpage.zip)
 Description:
 A front-end practice project where I recreated a website concept using HTML to better understand layout structure and coding principles.
 
