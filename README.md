@@ -1,8 +1,32 @@
 # Nadia Laleau – Web Designer & Front-End Developer
 
-I am passionate about creating visually engaging and user-friendly digital experiences. My work combines web design, layout structure, and front-end development to build intuitive websites and applications.
-
+I am passionate about creating visually engaging and user-friendly digital experiences. My work combines web design, layout structure, and front-end development to build intuitive websites and applications. I focus on strong visual design, responsive layouts, and creating smooth user experiences.
 ---
+About Me
+
+I am a web designer and front-end developer with a passion for creating visually engaging and functional digital experiences. I enjoy combining creativity with technology to design websites and applications that are both attractive and easy to use.
+
+Alongside my development work, I run my creative brand Xpressed Vibrance, where I design and create custom artwork for products such as tote bags, notebooks, and apparel. This experience has strengthened my skills in branding, visual storytelling, and designing digital storefronts that effectively present products.
+
+⸻
+
+Technical Skills
+
+Languages
+	•	HTML
+	•	CSS
+	•	JavaScript
+
+Web Development
+	•	Responsive Web Design
+	•	DOM Manipulation
+	•	API Integration
+	•	UI/UX Layout Design
+
+Tools & Platforms
+	•	Wix Website Builder
+	•	GitHub
+	•	Visual Studio Code
 
 ## Projects
 
