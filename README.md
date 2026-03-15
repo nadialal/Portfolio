@@ -122,9 +122,15 @@ A website prototype demonstrating foundational front-end development and webpage
 Skills Used:
 HTML • CSS • Website Layout
 
+
+⸻
+
 Contact
 
 Interested in working together or learning more about my projects? Feel free to reach out.
 
-Email: nlaleau@yahoo.com
-GitHub: https://github.com/nadialal
+Email:
+nlaleau@yahoo.com
+
+GitHub:
+https://github.com/nadialal
