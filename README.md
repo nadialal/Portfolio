@@ -1,5 +1,6 @@
 # Nadia Laleau – Web Designer & Front-End Developer
 
+
 I am passionate about creating visually engaging and user-friendly digital experiences. My work combines web design, layout structure, and front-end development to build intuitive websites and applications. I focus on strong visual design, responsive layouts, and creating smooth user experiences.
 ---
 About Me
