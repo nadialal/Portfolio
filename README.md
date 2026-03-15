@@ -40,6 +40,9 @@ Skills Used
 
 Weather App
 
+Repository:
+https://github.com/nadialal/weather-app
+
 Description:
 A web application that retrieves real-time weather data using an external API. This project demonstrates working with APIs and dynamically displaying information using JavaScript.
 
@@ -53,8 +56,12 @@ Skills Used
 
 Task Manager App
 
+Repository: 
+https://github.com/nadialal/task-manager-app
+
 Description:
 A simple productivity application that allows users to add tasks, mark them as completed, and delete tasks. This project demonstrates JavaScript DOM manipulation and interactive web functionality.
+
 
 Skills Used
 	•	HTML
@@ -65,6 +72,9 @@ Skills Used
 ⸻
 
 Favorite Twitter Searches App
+
+Repository:
+https://github.com/nadialal/favorite-twitter-searches
 
 Description:
 A web application created for a class assignment that allows users to manage and organize their favorite Twitter search queries. This project demonstrates working with user input, managing data, and displaying dynamic content on a webpage.
